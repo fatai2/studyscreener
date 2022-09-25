@@ -1,7 +1,7 @@
 {
   "main.css": "/studyscreener/static/css/main.7ec97f8d.chunk.css",
-  "main.js": "/studyscreener/static/js/main.c519b9d6.chunk.js",
-  "main.js.map": "/studyscreener/static/js/main.c519b9d6.chunk.js.map",
+  "main.js": "/studyscreener/static/js/main.444ed909.chunk.js",
+  "main.js.map": "/studyscreener/static/js/main.444ed909.chunk.js.map",
   "static/js/1.aa1ef92c.chunk.js": "/studyscreener/static/js/1.aa1ef92c.chunk.js",
   "static/js/1.aa1ef92c.chunk.js.map": "/studyscreener/static/js/1.aa1ef92c.chunk.js.map",
   "static/css/2.9c7b18d8.chunk.css": "/studyscreener/static/css/2.9c7b18d8.chunk.css",
@@ -9,10 +9,10 @@
   "static/js/2.cdf07fc4.chunk.js.map": "/studyscreener/static/js/2.cdf07fc4.chunk.js.map",
   "runtime~main.js": "/studyscreener/static/js/runtime~main.b4fdc3f5.js",
   "runtime~main.js.map": "/studyscreener/static/js/runtime~main.b4fdc3f5.js.map",
-  "static/media/primeicons.css": "/studyscreener/static/media/primeicons.64b5d470.svg",
+  "static/media/primeicons.css": "/studyscreener/static/media/primeicons.b29a888f.ttf",
   "static/css/main.7ec97f8d.chunk.css.map": "/studyscreener/static/css/main.7ec97f8d.chunk.css.map",
   "static/css/2.9c7b18d8.chunk.css.map": "/studyscreener/static/css/2.9c7b18d8.chunk.css.map",
   "index.html": "/studyscreener/index.html",
-  "precache-manifest.0139cda6941875ee09cc4875db39acae.js": "/studyscreener/precache-manifest.0139cda6941875ee09cc4875db39acae.js",
+  "precache-manifest.55e7d4d333d53d466018b440c3cde0df.js": "/studyscreener/precache-manifest.55e7d4d333d53d466018b440c3cde0df.js",
   "service-worker.js": "/studyscreener/service-worker.js"
 }
